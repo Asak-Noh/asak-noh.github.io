@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Asak Noh"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/KakaoTalk_20210603_233153342.jpg"
   bio              : "Fun Seeker"
   location         : "Seoul, Korea"
   email            :
